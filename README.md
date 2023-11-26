@@ -18,7 +18,9 @@ Projeto em andamento.
 ### Dependências
 
 - Spring Web;
-- Spring Boot DevTools.
+- Spring Boot DevTools;
+- Lombok;
+- Bean Validation
 
 ## Instalando
 
